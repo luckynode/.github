@@ -1,4 +1,4 @@
-# 🌿𝗚𝗶𝗳𝘁𝗠𝗼𝗺𝗲𝗻𝘁: 생일 선물 펀딩 및 편지 아카이빙 서비스 🌿
+# 🎁 𝗚𝗶𝗳𝘁 𝗠𝗼𝗺𝗲𝗻𝘁 🎁
 ![Gift Moment](https://github.com/user-attachments/assets/e0fb7bd6-e34d-4d4b-93ff-c6dee31cfad8)
 
 > 2024 숙명 중앙동아리 SOLUX LuckyNode팀 </br>
@@ -25,6 +25,10 @@
 
 
 ## 💡𝗠𝗮𝗶𝗻 𝗣𝗮𝗴𝗲
+
+### 𝗟𝗼𝗴𝗼
+<img src="https://github.com/user-attachments/assets/59eeb898-02c5-49bd-9013-a6fd45ed0c4e" alt="Main Logo" width="16%"> 
+</br>
 
 ### 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼
 - 유저 시나리오: 로그인 → 편지함 조회 / 내 위시리스트 조회/등록
