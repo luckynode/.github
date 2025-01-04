@@ -51,7 +51,7 @@
 | **분야**       | **사용 기술**                                 | 
 |----------------|---------------------------------------------|   
 | **[Frontend](https://github.com/luckynode/gift-moment-client)**   | React                        |
-| **Backend**    | Node js                        |
+| **[Backend](https://github.com/luckynode/gift-moment-server)**    | Node js                        |
 
 </br>
 
