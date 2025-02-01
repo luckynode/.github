@@ -35,7 +35,9 @@
 - 생일을 축하해주는 사람 시나리오: 편지 작성 → 로그인 → 선물하기 → 카카오페이 결제
 - 생일인 사용자 시나리오: 로그인 → 편지지 조회 → 위시리스트 선물 달성 조회 → 계좌 송금 신청
 
-| **생일 전 사용자 시나리오: ** |
+<div style="width: 40%; margin: 0 auto;">
+
+| 생일 전 사용자 시나리오 |
 |-------|
 | ![생일 전 사용자 시나리오 (1)](https://github.com/user-attachments/assets/ce4ef5c3-7f16-420c-8407-4618bb2f5174) |
 
@@ -47,16 +49,18 @@
 |-------|
 | ![생일인 사용자 시나리오 (1)](https://github.com/user-attachments/assets/d73dfeab-8bf0-4ce1-b24e-836193a8714e) |  
 
+</div>
+
 
 </br>
 
 ## 🔧 **𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸**
 *더 자세한 기술 설명은 각 레포지터리 리드미에 있습니다.
 
-| **분야**       | **사용 기술**                                 | 
-|----------------|---------------------------------------------|   
-| **[Frontend](https://github.com/luckynode/gift-moment-client)**   | React                        |
-| **[Backend](https://github.com/luckynode/gift-moment-server)**    | Node js                        |
+| **분야**       | **스택**                                 | **아키텍처** |
+|----------------|---------------------------------------------|--------------|
+| **[Frontend](https://github.com/luckynode/gift-moment-client)**   | React   | <img src= "https://github.com/user-attachments/assets/508b089a-ee72-4f2d-8cb9-493ac7cbddbd" width="65%"> |
+| **[Backend](https://github.com/luckynode/gift-moment-server)**    | Node js  |  |
 
 </br>
 
@@ -64,7 +68,7 @@
 
 ### 𝗙𝗹𝗼𝘄 𝗖𝗵𝗮𝗿𝘁
 
-![flow chart](https://github.com/user-attachments/assets/7fad669d-88d2-41ff-82dc-4eb802cadcb5)
+<img src= "https://github.com/user-attachments/assets/7fad669d-88d2-41ff-82dc-4eb802cadcb5" width="70%">
 
 
 </br>
